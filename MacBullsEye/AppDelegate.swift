@@ -6,8 +6,10 @@
 //  Copyright © 2020 Mihai Leonte. All rights reserved.
 //
 
+import GameView
 import Cocoa
 import SwiftUI
+
 
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
